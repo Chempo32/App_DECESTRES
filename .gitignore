@@ -1,0 +1,23 @@
+node_modules/
+
+# Expo y archivos locales
+.expo/
+dist/
+web-build/
+
+# Logs de errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Seguridad y Configuración Local
+.env
+.env.local
+
+# Archivos de Sistema y Editores 
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
